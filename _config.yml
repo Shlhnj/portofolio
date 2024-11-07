@@ -22,9 +22,6 @@ tiles-count: 3
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: 
-  GitLab:
-  Google-Plus: 
   researchgate: https://www.researchgate.net/profile/Muhammad-Jihadi-2
   orcid: https://orcid.org/0009-0003-7193-7298
   Instagram: https://www.instagram.com/shlhn._/
@@ -32,6 +29,9 @@ socials:
   Twitter: https://twitter.com/shlhnj
   Facebook:
   Slack:
+  GitHub: 
+  GitLab:
+  Google-Plus: 
 
 # build settings
 markdown: kramdown
