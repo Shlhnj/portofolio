@@ -2,7 +2,7 @@
 title: Shlhnj
 subtitle: by HTML5 UP
 email: mail.shulhan@gmail.com
-description: An aspiring cartographer and ecological modeller <br /> Still learning to code.
+description: An aspiring cartographer and ecological modeller, <br /> Still learning to code.
 baseurl: "/portofolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -27,7 +27,7 @@ socials:
   Google-Plus: 
   Researchgate: https://www.researchgate.net/profile/Muhammad-Jihadi-2
   orcid: https://orcid.org/0009-0003-7193-7298
-  Instagram: shlhn._
+  Instagram: https://www.instagram.com/shlhn._/
   LinkedIn: https://www.linkedin.com/in/mshulhanj
   Twitter: https://twitter.com/shlhnj
   Facebook:
