@@ -1,20 +1,20 @@
 # site settings
-title: Forty
+title: Shlhnj
 subtitle: by HTML5 UP
 email: mail.shulhan@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: An aspiring cartographer and ecological modeller <br /> Still learning to code.
 baseurl: "/portofolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Timoho 1
+city: Semarang
+state: Central Java
+zip_code: 50275
+country: Indonesia
+phone: (+62) 089 829 09 751
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings (key must match name of font awesome icon)
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: 
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  Google-Plus: 
+  Instagram: shlhn._
+  LinkedIn: https://www.linkedin.com/in/mshlhnj
+  Twitter: https://twitter.com/shlhnj
   Facebook:
   Slack:
 
